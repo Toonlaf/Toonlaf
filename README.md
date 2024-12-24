@@ -20,8 +20,6 @@ I'm diving deep into:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toonlaf&layout=compact&theme=tokyonight)](https://github.com/Toonlaf)
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toonlaf&theme=tokyonight)](https://github.com/Toonlaf)
 
 
 ## 🛠️ Tech Stack
