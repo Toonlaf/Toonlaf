@@ -1,7 +1,7 @@
 # 👋 Ciao! I'm @Toonlaf 🇮🇹
 
 ## 🌍 About Me
-Full-Stack Developer based in Italy, passionate about crafting digital solutions that make a difference. Specialized in Shopify development and modern web technologies. When I'm not coding, you might find me exploring new technologies or enjoying videogames 👾
+Full-Stack Developer based in Barcelona, passionate about crafting digital solutions that make a difference. Specialized in Shopify development and modern web technologies. When I'm not coding, you might find me exploring new technologies or enjoying videogames 👾
 
 ## 🔍 Current Tech Journey
 I'm diving deep into:
